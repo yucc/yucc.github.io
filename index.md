@@ -1,5 +1,6 @@
 ---
-title: test
+layout: post
+title: Blogging like a charm
 ---
 
 # Yucc Home
